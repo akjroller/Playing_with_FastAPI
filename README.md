@@ -61,8 +61,10 @@ python plot.py
 You should see a matplotlib window pop up displaying the plot of the cryptocurrency price over time.
 
 
-:handshake: Contributing
+:handshake: Contributing:
+
 Contributions, issues, and feature requests are welcome!
 
-:memo: License
+:memo: License:
+
 This project is MIT licensed.
