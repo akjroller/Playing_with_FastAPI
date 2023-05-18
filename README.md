@@ -1,12 +1,12 @@
 <div align="center">
 
-# :money_with_wings: Crypto Price Tracker :chart_with_upwards_trend:
+# Crypto Price Tracker
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
 
-Track your favorite cryptocurrency's price with **Crypto Price Tracker**. This application uses CoinGecko API for fetching real-time prices, stores data in SQLite, and exposes an API endpoint to fetch the historical price data. It also provides a Python script to visualize this data using Matplotlib.
+**Crypto Price Tracker** This application was created for fun and you could just use CoinGecko API directly. **Crypto Price Tracker** uses CoinGecko API for fetching real-time prices, stores data in SQLite, and exposes an API endpoint to fetch the historical price data. It also provides a Python script to visualize this data using Matplotlib.
 
 ---
 
