@@ -1,0 +1,8 @@
+# .gitattributes
+
+* text=auto
+*.py text eol=lf
+*.bat text eol=crlf
+*.png binary
+*.jpg binary
+*.db binary
